@@ -1,66 +1,92 @@
-* {
-  box-sizing: border-box;
-}
+@import url("https://fonts.googleapis.com/css2?family=Damion&display=swap");
 
+html,
 body {
   background-image: url(https://img5.goodfon.com/wallpaper/nbig/2/73/osen-listia-fon-derevo-kofe-colorful-kruzhka-chashka-vinta-1.jpg);
-  background-repeat: no-repeat;
-  background-position: center;
   background-size: cover;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-family: "Montserrat", sans-serif;
+  background-repeat: no-repeat;
   height: 100vh;
-}
-.container {
-  background-color: #f5f5f5;
-  border-radius: 10px;
-  box-shadow: 5px 5px 5px #333;
-  width: 500px;
-  max-width: 100%;
-  min-height: 550px;
-
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  font-family: "Numans", sans-serif;
+  overflow: hidden;
 }
 
-h1 {
-  font-weight: bold;
-  margin: 0;
-}
-
-.btn {
-  text-decoration: none;
-  border-radius: 20px;
-  border: 1px solid #b4552a;
-  background-color: #b4552a;
-  color: #f5f5f5;
-  font-size: 12px;
-  font-weight: bold;
-  padding: 12px 45px;
-  letter-spacing: 1px;
-  text-transform: uppercase;
-}
-
-form {
-  display: flex;
-  align-items: space-between;
-  justify-content: center;
-  flex-direction: column;
-  padding: 0 50px;
-  height: 100%;
+header {
+  font-family: "Damion", cursive;
+  font-weight: bolder;
   text-align: center;
-  gap: 35px;
-}
-form input {
-  height: 30px;
+  padding-top: 150px;
+  color: #cfa87a;
 }
 
-.home-btn {
-  text-decoration: none;
+.name-entry .input-group {
+  width: 45%;
+}
+
+.container {
+  height: 100%;
+  align-content: center;
+}
+
+.card {
+  height: 500px;
+  margin-top: 100px;
+  width: 500px;
+  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 10px;
+}
+
+.card-header h3 {
+  color: whitesmoke;
   align-items: center;
-  color: #000000;
-  font-weight: bold;
+  text-align: center;
+  font-family: "cursive";
+}
+
+.social_icon {
+  position: absolute;
+  right: 20px;
+  top: -45px;
+}
+
+.input-group-prepend span {
+  width: 50px;
+  background-color: #cfa87a;
+  color: black;
+  border: 0 !important;
+}
+
+input:focus {
+  outline: 0 0 0 0 !important;
+  box-shadow: 0 0 0 0 !important;
+}
+
+.remember {
+  color: white;
+}
+
+.remember input {
+  width: 20px;
+  height: 20px;
+  margin-left: 15px;
+  margin-right: 5px;
+}
+
+.login_btn {
+  color: whitesmoke;
+  background-color: #cfa87a;
+  width: 100px;
+}
+
+.login_btn:hover {
+  color: black;
+  background-color: whitesmoke;
+}
+
+.links {
+  color: whitesmoke;
+}
+
+.card-footer a {
+  margin-left: 4px;
+  color: #cfa87a;
 }
