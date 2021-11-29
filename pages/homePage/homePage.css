@@ -13,6 +13,16 @@ header {
   border-radius: 0 0 75% 75% / 10%;
 }
 
+header a {
+  all: unset;
+  font-size: 2vw;
+}
+
+header a:hover{
+  all: unset;
+  font-size: 2vw;
+}
+
 .title {
   padding: 50px;
   width: 100%;

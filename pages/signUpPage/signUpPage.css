@@ -18,6 +18,16 @@ header {
   color: #cfa87a;
 }
 
+header a {
+  all: unset;
+  font-size: 2vw;
+}
+
+header a:hover{
+  all: unset;
+  font-size: 2vw;
+}
+
 .name-entry .input-group {
   width: 45%;
 }
