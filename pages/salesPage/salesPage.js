@@ -75,7 +75,6 @@ const menu = [
 
 ];
 
-
 function showBtn() {
     let category = ['All'];
     menu.map((element) => {
