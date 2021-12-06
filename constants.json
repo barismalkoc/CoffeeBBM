@@ -4,7 +4,7 @@
       "title": "JERARD",
       "category": "Filter and Bean Coffee",
       "price": "135 TL",
-      "img": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty150/product/media/images/20210803/0/115207057/159510595/1/1_org_zoom.jpg",
+      "img": "/pages/images/jerard_filter_coffee.jpg",
       "desc": "House Blend 1kg Bean Coffee."
     },
     {
@@ -12,7 +12,7 @@
       "title": "Bongardi Coffee",
       "category": "Filter and Bean Coffee",
       "price": "64,90 TL",
-      "img": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty256/product/media/images/20211129/10/977724/88623325/1/1_org_zoom.jpg",
+      "img": "/pages/images/bongardi_filter_coffee.jpg",
       "desc": "3x200 gr Local Set Brazilian Santos Ethiopia Intense Filter Coffee Machine Compatible."
     },
     {
@@ -20,7 +20,7 @@
       "title": "Abant Coffee Shop",
       "category": "Turkish Coffee",
       "price": "68,90 TL",
-      "img": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty24/product/media/images/20201114/7/25892905/102433672/1/1_org_zoom.jpg",
+      "img": "/pages/images/abant_turkish_coffee.jpg",
       "desc": "3 Piece Mountain Strawberry Turkish Coffee Flavor Set. "
     },
     {
@@ -28,7 +28,7 @@
       "title": "Altincezve Orhan Efendi",
       "category": "Turkish Coffee",
       "price": "16,90 TL",
-      "img": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty126/product/media/images/20210612/12/99738370/60340025/1/1_org_zoom.jpg",
+      "img": "/pages/images/altincezve_turkish_coffee.jpg",
       "desc": "Saltanat Dibek Coffee 200 gr. "
     },
     {
@@ -36,7 +36,7 @@
       "title": "KOCATEPE KAHVE",
       "category": "Turkish Coffee",
       "price": "128 TL",
-      "img": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty69/product/media/images/20210210/0/61597619/139609973/1/1_org_zoom.jpg",
+      "img": "/pages/images/kocatepe_turkish_coffee.jpg",
       "desc": "Kocatepe Turkish Coffee 500g. Foil 3-Pack. "
     },
     {
@@ -44,7 +44,7 @@
       "title": "İstanbul Cafer",
       "category": "Capsule Coffee",
       "price": "154 TL",
-      "img": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty144/product/media/images/20210713/14/110093100/202999877/1/1_org_zoom.jpg",
+      "img": "/pages/images/istanbul_cafer_capsule_coffee.jpg",
       "desc": "60 Pcs Coffee Capsules with Stand Gift."
     },
     {
@@ -52,7 +52,7 @@
       "title": "Tchibo ",
       "category": "Capsule Coffee",
       "price": "39,95 TL",
-      "img": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty236/product/media/images/20211109/13/172134599/299750753/1/1_org_zoom.jpg",
+      "img": "/pages/images/tchibo_capsule_coffee.jpg",
       "desc": "Espresso Buttertoffee Flavored Coffee Capsules 10 Pieces."
     }
   ]

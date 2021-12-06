@@ -62,7 +62,7 @@ const showRecommendedItem = () => {
 
 const showDetail = () => {
 
-    document.getElementById("price").textContent = item[0].title;
+    document.getElementById("price").textContent = item[0].price;
     document.getElementById("type").textContent = item[0].category;
 }
 show();
